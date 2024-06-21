@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T03:00:30.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="cqTZyIv5S243fdHATUcc" version="24.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-21T03:00:59.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="NQeYqrTevXpGdf1ePaVz" version="24.5.5" type="github" pages="2">
   <diagram name="FAT12文件系统" id="glHT4x5Lblkt-VLPU1X4">
     <mxGraphModel dx="1389" dy="914" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,33 +33,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eC0Ar2EkRtqq3bm4lySw-11" value="二级分页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="222" y="591" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eC0Ar2EkRtqq3bm4lySw-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="670" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eC0Ar2EkRtqq3bm4lySw-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eC0Ar2EkRtqq3bm4lySw-20" value="31" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="205" y="640" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eC0Ar2EkRtqq3bm4lySw-21" value="11" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="393" y="643" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eC0Ar2EkRtqq3bm4lySw-22" value="12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="374" y="643" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eC0Ar2EkRtqq3bm4lySw-23" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="501" y="643" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eC0Ar2EkRtqq3bm4lySw-24" value="31~22：页目录项，可包含1k的页表项" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="228" y="748" width="291" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eC0Ar2EkRtqq3bm4lySw-25" value="21~12：页表项，可容纳1k页表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="209" y="772" width="291" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="eC0Ar2EkRtqq3bm4lySw-27" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="176" y="320" width="385" height="210" as="geometry" />
         </mxCell>
@@ -93,17 +66,47 @@
         <mxCell id="eC0Ar2EkRtqq3bm4lySw-10" value="11~0：页内偏移地址" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eC0Ar2EkRtqq3bm4lySw-26">
           <mxGeometry y="128" width="291" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eC0Ar2EkRtqq3bm4lySw-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="670" width="94" height="60" as="geometry" />
+        <mxCell id="eC0Ar2EkRtqq3bm4lySw-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="198" y="613" width="382" height="234" as="geometry" />
         </mxCell>
-        <mxCell id="eC0Ar2EkRtqq3bm4lySw-29" value="21" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="301" y="643" width="60" height="30" as="geometry" />
+        <mxCell id="eC0Ar2EkRtqq3bm4lySw-11" value="二级分页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eC0Ar2EkRtqq3bm4lySw-33">
+          <mxGeometry x="43" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eC0Ar2EkRtqq3bm4lySw-30" value="22" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="282" y="643" width="60" height="30" as="geometry" />
+        <mxCell id="eC0Ar2EkRtqq3bm4lySw-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eC0Ar2EkRtqq3bm4lySw-33">
+          <mxGeometry x="145" y="79" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eC0Ar2EkRtqq3bm4lySw-31" value="11~0：页内偏移地址" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="179" y="795" width="291" height="30" as="geometry" />
+        <mxCell id="eC0Ar2EkRtqq3bm4lySw-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eC0Ar2EkRtqq3bm4lySw-33">
+          <mxGeometry x="235" y="79" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eC0Ar2EkRtqq3bm4lySw-20" value="31" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eC0Ar2EkRtqq3bm4lySw-33">
+          <mxGeometry x="26" y="49" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eC0Ar2EkRtqq3bm4lySw-21" value="11" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eC0Ar2EkRtqq3bm4lySw-33">
+          <mxGeometry x="214" y="52" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eC0Ar2EkRtqq3bm4lySw-22" value="12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eC0Ar2EkRtqq3bm4lySw-33">
+          <mxGeometry x="195" y="52" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eC0Ar2EkRtqq3bm4lySw-23" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eC0Ar2EkRtqq3bm4lySw-33">
+          <mxGeometry x="322" y="52" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eC0Ar2EkRtqq3bm4lySw-24" value="31~22：页目录项，可包含1k的页表项" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eC0Ar2EkRtqq3bm4lySw-33">
+          <mxGeometry x="49" y="157" width="291" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eC0Ar2EkRtqq3bm4lySw-25" value="21~12：页表项，可容纳1k页表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eC0Ar2EkRtqq3bm4lySw-33">
+          <mxGeometry x="30" y="181" width="291" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eC0Ar2EkRtqq3bm4lySw-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eC0Ar2EkRtqq3bm4lySw-33">
+          <mxGeometry x="51" y="79" width="94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eC0Ar2EkRtqq3bm4lySw-29" value="21" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eC0Ar2EkRtqq3bm4lySw-33">
+          <mxGeometry x="122" y="52" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eC0Ar2EkRtqq3bm4lySw-30" value="22" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eC0Ar2EkRtqq3bm4lySw-33">
+          <mxGeometry x="103" y="52" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eC0Ar2EkRtqq3bm4lySw-31" value="11~0：页内偏移地址" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eC0Ar2EkRtqq3bm4lySw-33">
+          <mxGeometry y="204" width="291" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
