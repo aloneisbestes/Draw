@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T02:55:50.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="JaIy6coUDgkPmjdydMlF" version="24.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-21T02:57:28.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="RVgqOKYvWAe0lB2Ng1iL" version="24.5.5" type="github" pages="2">
   <diagram name="FAT12文件系统" id="glHT4x5Lblkt-VLPU1X4">
     <mxGraphModel dx="1389" dy="914" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,6 +53,12 @@
         </mxCell>
         <mxCell id="eC0Ar2EkRtqq3bm4lySw-8" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="501" y="375" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eC0Ar2EkRtqq3bm4lySw-9" value="31~12：页表项，可表示1048576个页表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="228" y="480" width="291" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eC0Ar2EkRtqq3bm4lySw-10" value="11~0：页表偏移地址" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="176" y="500" width="291" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
