@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T03:00:59.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="NQeYqrTevXpGdf1ePaVz" version="24.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-27T09:00:24.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uxd8HGuv3-U2iYVO1QJj" version="24.6.0" type="github" pages="3">
   <diagram name="FAT12文件系统" id="glHT4x5Lblkt-VLPU1X4">
     <mxGraphModel dx="1389" dy="914" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,6 +108,14 @@
         <mxCell id="eC0Ar2EkRtqq3bm4lySw-31" value="11~0：页内偏移地址" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eC0Ar2EkRtqq3bm4lySw-33">
           <mxGeometry y="204" width="291" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Lrh4lyp3_ojbRrYuuaqn" name="LuminousOS内存规划">
+    <mxGraphModel dx="1434" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
