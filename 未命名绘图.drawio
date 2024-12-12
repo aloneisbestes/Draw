@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T02:32:53.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.5" etag="Bf9bHNtyWUZhfOVse4zj" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="kcQXQSUT1It2r0rhMfiR">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="n2hlyddYiThPnWGno8mT-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="77" y="249" width="626" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="n2hlyddYiThPnWGno8mT-2" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="618" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2hlyddYiThPnWGno8mT-3" value="c++" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="499" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2hlyddYiThPnWGno8mT-4" value="业务处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252" y="356" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2hlyddYiThPnWGno8mT-5" value="业务处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2hlyddYiThPnWGno8mT-6" value="业务处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="523" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2hlyddYiThPnWGno8mT-7" value="业务处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="356" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2hlyddYiThPnWGno8mT-9" value="java" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="349" y="295" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
